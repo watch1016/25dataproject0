@@ -80,7 +80,6 @@ restaurants = {
     ]
 }
 
-
 # 지도 생성
 city_center = city_coords[selected_city]
 m = folium.Map(location=city_center, zoom_start=13)
