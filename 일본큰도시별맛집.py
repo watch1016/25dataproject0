@@ -96,6 +96,3 @@ for place in restaurants[selected_city]:
 
 # Folium 지도 출력
 st_data = st_folium(m, width=900, height=600)
-
-# 아래 줄은 코드 바깥 설명이므로 주석으로만 사용해야 합니다
-# 🇯🇵🍤🍛
